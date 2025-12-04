@@ -1,0 +1,51 @@
+✅ 2. README for Project: EDA Titanic Dataset
+🚢 Titanic Dataset – Exploratory Data Analysis (EDA)
+📘 Overview
+
+This project analyzes the famous Titanic dataset, exploring passenger demographics, survival patterns, and key insights using descriptive statistics and visualizations.
+
+📂 Dataset
+
+Source: Kaggle Titanic Dataset
+
+Rows: 891
+
+Columns: 12
+
+Target: Survived (0 = No, 1 = Yes)
+
+🔍 Objectives
+
+Understand data distribution
+
+Find relationships between survival and other features
+
+Clean missing values
+
+Visualize key patterns
+
+📊 Key Insights
+
+Females survived more than males
+
+Higher-class passengers (Pclass 1) had higher survival rate
+
+Children had greater chances of survival
+
+🛠 Tech Stack
+
+Python
+
+Pandas, NumPy
+
+Matplotlib, Seaborn
+
+▶ How to Run
+pip install -r requirements.txt  
+jupyter notebook
+
+📌 Future Enhancements
+
+Add ML model for survival prediction
+
+Add interactive dashboard
