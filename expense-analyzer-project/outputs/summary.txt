@@ -1,0 +1,9 @@
+Total spend: 642791.00
+Average daily spend: 5739.21
+Days with spending: 112
+Top categories:
+  - Rent: 240222.00
+  - Groceries: 78603.00
+  - Shopping: 73928.00
+  - Travel: 64025.00
+  - Misc: 42551.00

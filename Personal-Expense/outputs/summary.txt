@@ -1,0 +1,28 @@
+Expense Summary
+====================
+Total Expense: 4609
+
+Expenses by Category:
+  alone: 2710
+  friend: 1889
+
+Expenses by Day:
+  Friday: 356
+  Monday: 670
+  Saturday: 402
+  Sunday: 1277
+  Thursday: 493
+  Tuesday: 691
+  Wednesday: 720
+
+Top Items:
+  chai with snaks: 1080
+  biryani: 580
+  shoe: 500
+  wifi: 350
+  others: 335
+  juice: 210
+  recharge: 210
+  chai: 200
+  chicken: 180
+  coldrink: 165

@@ -1,0 +1,301 @@
+Student_ID,Gender,Age,Study_Hours,Attendance,Parental_Education,Internet_Access,Extracurricular,Test_Score,Performance_Level
+1,Male,15,3.8,54,Bachelor,Yes,Yes,51.81314081726158,Average
+2,Female,15,5.8,59,High School,Yes,No,87.03227524544155,Excellent
+3,Male,17,6.0,82,Bachelor,Yes,Yes,64.75032809268374,Average
+4,Male,16,1.9,87,Master,Yes,Yes,78.242121887481,Good
+5,Male,19,5.4,62,High School,Yes,No,100.0,Excellent
+6,Female,18,7.1,80,Bachelor,Yes,No,80.33017035528138,Good
+7,Male,16,6.5,96,High School,Yes,Yes,75.58743564685,Good
+8,Male,18,2.8,85,High School,Yes,Yes,93.98683502724063,Excellent
+9,Male,17,3.3,94,PhD,Yes,No,86.87197966889788,Excellent
+10,Female,17,6.6,73,High School,Yes,No,58.00908885757847,Average
+11,Male,15,6.3,64,None,Yes,Yes,74.41787113680783,Good
+12,Male,19,0.5,78,Bachelor,Yes,Yes,44.237563987888606,Poor
+13,Male,18,0.1,57,None,No,Yes,61.89769917438623,Average
+14,Male,16,4.8,54,Master,Yes,No,74.7107945139979,Good
+15,Female,17,3.8,78,High School,Yes,No,60.96841970828112,Average
+16,Male,15,4.4,96,Master,Yes,No,74.10050118957886,Good
+17,Female,15,4.2,53,Bachelor,Yes,No,69.79923076520441,Average
+18,Female,18,7.0,61,Bachelor,No,No,78.04625098592564,Good
+19,Female,17,5.2,94,Master,Yes,Yes,63.637014669578335,Average
+20,Male,19,5.5,51,High School,Yes,Yes,55.8977662834493,Average
+21,Female,17,2.3,76,PhD,Yes,Yes,92.17190239259892,Excellent
+22,Male,18,-1.7,80,High School,No,Yes,62.564548859650834,Average
+23,Female,18,7.2,100,High School,No,No,79.90015889675678,Good
+24,Female,17,9.3,100,High School,Yes,Yes,91.52870539708805,Excellent
+25,Female,18,4.3,85,Bachelor,Yes,Yes,72.44004998496298,Good
+26,Female,17,5.5,85,High School,Yes,Yes,57.155401458352756,Average
+27,Female,16,5.6,75,Master,Yes,Yes,67.32085038178984,Average
+28,Female,17,8.4,92,Master,Yes,Yes,85.2631137491013,Excellent
+29,Female,17,6.8,76,PhD,Yes,Yes,73.09371318606794,Good
+30,Female,18,6.0,54,High School,Yes,No,51.92287311693585,Average
+31,Male,18,5.1,69,Bachelor,Yes,Yes,78.94965750300568,Good
+32,Male,15,5.1,60,High School,Yes,No,81.54297203576498,Good
+33,Female,15,2.1,59,High School,Yes,Yes,64.670321708231,Average
+34,Female,16,4.2,89,High School,No,Yes,79.15366563407119,Good
+35,Female,15,6.8,87,High School,Yes,Yes,73.675278931907,Good
+36,Male,17,4.5,55,Bachelor,Yes,Yes,67.03855692036942,Average
+37,Female,18,5.1,57,Bachelor,No,No,50.59696384609505,Average
+38,Male,15,2.6,72,High School,Yes,Yes,86.16930842658637,Excellent
+39,Male,15,5.9,96,None,No,Yes,81.38816499879749,Good
+40,Male,16,2.1,75,None,Yes,No,78.75829441562969,Good
+41,Male,16,5.6,95,None,Yes,Yes,93.1678900551714,Excellent
+42,Male,17,4.6,92,PhD,No,Yes,84.1779059052039,Good
+43,Female,18,1.5,61,None,Yes,No,80.29849009227344,Good
+44,Female,16,7.1,75,High School,Yes,No,36.801589779597535,Poor
+45,Female,15,4.7,62,High School,No,Yes,87.95342427703623,Excellent
+46,Female,18,8.7,89,Master,Yes,No,71.24620771423076,Good
+47,Female,18,8.0,67,PhD,Yes,No,74.68737520385707,Good
+48,Male,15,3.2,74,Bachelor,No,Yes,74.78999784540079,Good
+49,Female,16,3.4,82,Bachelor,Yes,No,81.60749115463419,Good
+50,Female,15,2.7,96,Bachelor,No,Yes,86.83262543202528,Excellent
+51,Male,18,1.8,89,None,Yes,Yes,79.51361714588833,Good
+52,Female,19,4.2,92,PhD,Yes,Yes,77.12928383979838,Good
+53,Male,19,7.9,61,Bachelor,Yes,Yes,73.47269108943357,Good
+54,Female,17,1.2,93,Bachelor,Yes,No,19.725842246429828,Poor
+55,Male,15,6.7,85,Bachelor,No,Yes,65.68613470824718,Average
+56,Female,15,6.5,97,Bachelor,No,No,55.876157239740316,Average
+57,Female,17,6.1,53,Bachelor,Yes,No,88.16109308408627,Excellent
+58,Male,17,6.5,54,PhD,Yes,Yes,79.2855579742944,Good
+59,Male,17,2.8,86,Master,Yes,No,63.127945191793984,Average
+60,Male,18,6.5,57,Bachelor,Yes,Yes,64.63424226596133,Average
+61,Male,15,3.9,91,Bachelor,Yes,Yes,64.09027955046368,Average
+62,Male,18,0.1,98,None,Yes,No,63.822607685216205,Average
+63,Male,17,5.1,77,Bachelor,Yes,Yes,48.33163834712804,Poor
+64,Male,15,3.3,80,None,Yes,Yes,45.08080760083348,Poor
+65,Male,18,7.7,58,Bachelor,Yes,Yes,70.43570158572616,Good
+66,Female,18,4.4,100,PhD,Yes,Yes,86.12971209039031,Excellent
+67,Female,17,5.1,78,Bachelor,Yes,Yes,61.93465453858206,Average
+68,Male,15,5.8,63,High School,Yes,Yes,74.55167126386068,Good
+69,Female,17,4.5,89,High School,Yes,No,81.01391375765088,Good
+70,Female,15,4.8,90,High School,Yes,Yes,55.09932691624215,Average
+71,Female,19,6.7,71,Bachelor,Yes,Yes,69.70036856920146,Average
+72,Female,16,2.9,60,High School,Yes,Yes,60.002192780897275,Average
+73,Male,16,3.6,72,High School,Yes,Yes,94.0917923774694,Excellent
+74,Female,16,3.1,50,High School,Yes,No,93.43689260293172,Excellent
+75,Male,17,7.9,95,Bachelor,Yes,No,55.114857401877245,Average
+76,Female,19,3.6,86,Bachelor,Yes,No,75.78826574626488,Good
+77,Female,15,4.7,70,None,No,Yes,86.01398951218735,Excellent
+78,Female,18,3.8,75,High School,Yes,Yes,82.72494250564495,Good
+79,Male,15,4.4,95,Bachelor,Yes,Yes,71.22344552476548,Good
+80,Female,18,3.5,85,Bachelor,Yes,No,89.59836192646522,Excellent
+81,Male,15,5.9,72,Bachelor,Yes,Yes,56.43227966515851,Average
+82,Female,19,2.9,50,High School,Yes,Yes,65.45360583407961,Average
+83,Male,18,2.3,100,Bachelor,Yes,No,56.835363703606376,Average
+84,Female,17,3.9,89,High School,Yes,Yes,81.73740242050933,Good
+85,Male,15,3.4,64,Master,Yes,Yes,61.26044688550823,Average
+86,Male,15,2.3,70,Bachelor,Yes,Yes,67.43126236844371,Average
+87,Female,18,4.4,96,High School,Yes,No,79.26505552398623,Good
+88,Male,17,1.7,58,High School,Yes,Yes,80.47374870666724,Good
+89,Female,17,8.5,58,Bachelor,Yes,No,56.39310480617124,Average
+90,Female,19,2.0,59,Master,Yes,No,85.84982925659189,Excellent
+91,Female,17,3.7,75,Bachelor,No,Yes,76.83534503000877,Good
+92,Female,17,4.2,90,Bachelor,Yes,No,53.774457406293976,Average
+93,Female,17,8.4,84,Bachelor,No,Yes,50.084261563650806,Average
+94,Female,16,1.5,74,Bachelor,Yes,Yes,69.76270434606899,Average
+95,Female,19,5.3,75,High School,No,No,82.75140983975213,Good
+96,Female,15,7.1,60,Master,Yes,No,83.1357379360147,Good
+97,Female,18,4.4,87,High School,Yes,No,75.34250315837264,Good
+98,Female,15,2.7,51,High School,Yes,Yes,70.73012257490238,Good
+99,Female,19,4.8,56,PhD,Yes,Yes,77.67606503618508,Good
+100,Male,18,8.1,67,None,Yes,Yes,57.17004228416113,Average
+101,Male,19,3.8,76,High School,Yes,Yes,95.30481794538088,Excellent
+102,Female,17,7.9,83,High School,Yes,Yes,95.10907627183781,Excellent
+103,Female,18,5.5,76,Master,Yes,Yes,76.43218471931047,Good
+104,Female,17,7.5,66,None,Yes,Yes,72.95950629989278,Good
+105,Female,15,5.4,92,None,Yes,Yes,63.82868541010944,Average
+106,Female,15,4.0,93,None,Yes,Yes,77.93123268699492,Good
+107,Female,18,8.3,100,None,Yes,Yes,59.63023943474835,Average
+108,Female,18,5.5,73,None,Yes,No,36.64581953506704,Poor
+109,Female,19,5.3,74,High School,No,Yes,29.288390492633702,Poor
+110,Male,19,6.6,56,Bachelor,Yes,No,58.0075250025477,Average
+111,Female,17,6.8,55,High School,Yes,No,72.34567184377417,Good
+112,Male,18,6.6,73,High School,Yes,Yes,74.97957600930224,Good
+113,Female,15,2.3,82,None,Yes,No,62.698644872360724,Average
+114,Female,19,3.7,98,High School,No,Yes,72.12752750714355,Good
+115,Male,19,3.7,78,Bachelor,Yes,Yes,65.88657464418203,Average
+116,Female,15,3.4,92,Bachelor,Yes,Yes,55.01030863524794,Average
+117,Male,19,3.3,71,None,Yes,Yes,69.19383236546312,Average
+118,Female,17,3.7,75,High School,Yes,Yes,82.19435668548473,Good
+119,Female,18,5.7,77,High School,Yes,Yes,55.68907378380517,Average
+120,Male,15,6.0,99,Master,Yes,No,55.69593080470453,Average
+121,Female,18,5.0,70,Bachelor,Yes,No,53.96124109071763,Average
+122,Male,19,4.1,98,Bachelor,Yes,Yes,40.95221898237826,Poor
+123,Female,19,7.6,56,High School,Yes,No,62.796964387794716,Average
+124,Male,15,4.8,66,Master,Yes,Yes,80.71129169428797,Good
+125,Male,17,6.9,69,None,Yes,Yes,72.60874125750644,Good
+126,Female,16,3.9,90,High School,Yes,No,67.4612367391554,Average
+127,Female,15,5.8,98,High School,Yes,Yes,71.93597197360253,Good
+128,Male,16,7.7,69,High School,Yes,Yes,62.665277688562625,Average
+129,Female,16,-0.2,71,PhD,Yes,Yes,40.78170044104792,Poor
+130,Female,17,3.7,77,Bachelor,Yes,Yes,81.75578172721849,Good
+131,Female,16,6.2,89,High School,Yes,No,86.06686860676976,Excellent
+132,Male,16,7.4,98,Bachelor,Yes,Yes,59.0776483589832,Average
+133,Male,17,5.4,56,PhD,Yes,No,67.73746569090166,Average
+134,Male,16,5.1,50,Master,No,Yes,66.44501243409759,Average
+135,Male,16,8.2,81,Bachelor,Yes,Yes,75.26933214136812,Good
+136,Male,16,7.5,62,Master,Yes,Yes,95.34840184939435,Excellent
+137,Male,15,3.3,79,PhD,Yes,No,87.39686867933958,Excellent
+138,Male,15,5.2,72,Bachelor,Yes,Yes,64.34628661879157,Average
+139,Male,15,5.7,100,None,Yes,No,78.13695792250356,Good
+140,Male,17,8.4,68,High School,Yes,No,88.81535302859069,Excellent
+141,Female,19,6.7,81,Master,No,Yes,76.12517746592167,Good
+142,Male,16,4.8,79,High School,Yes,No,69.92950893339741,Average
+143,Female,16,5.4,78,Master,Yes,No,76.69000142000779,Good
+144,Female,17,1.2,98,High School,Yes,No,59.4509271615479,Average
+145,Female,16,6.9,94,None,Yes,Yes,61.640783138438785,Average
+146,Male,15,6.3,78,High School,Yes,Yes,54.03948647198354,Average
+147,Male,19,7.4,79,None,Yes,Yes,74.60596774855365,Good
+148,Male,18,4.7,65,PhD,Yes,Yes,68.02895640966642,Average
+149,Male,16,5.3,89,Master,No,Yes,57.653229079778804,Average
+150,Female,15,4.0,68,Master,Yes,No,67.53730882569242,Average
+151,Male,18,2.7,67,Bachelor,Yes,Yes,77.04997391144755,Good
+152,Male,19,3.8,50,High School,Yes,Yes,98.72068458996988,Excellent
+153,Male,18,1.4,63,Bachelor,Yes,No,85.18101797055787,Excellent
+154,Male,15,6.8,100,Bachelor,Yes,No,35.737782137764896,Poor
+155,Male,18,0.7,96,Bachelor,Yes,Yes,73.58962700230518,Good
+156,Female,17,9.1,99,High School,Yes,No,91.43986394069282,Excellent
+157,Male,18,1.5,51,Bachelor,Yes,Yes,49.93189763184651,Poor
+158,Female,16,8.0,77,High School,Yes,Yes,78.27338905318635,Good
+159,Male,16,3.2,98,PhD,No,No,66.45036721703431,Average
+160,Female,17,6.1,99,Master,Yes,Yes,87.25435796374242,Excellent
+161,Male,15,3.5,79,High School,Yes,Yes,76.06385792520179,Good
+162,Male,16,8.3,87,Bachelor,Yes,Yes,56.73976818161191,Average
+163,Female,19,5.1,100,Bachelor,No,Yes,66.9872278256407,Average
+164,Female,16,7.1,53,None,Yes,Yes,67.87456485928566,Average
+165,Female,16,5.2,50,Master,Yes,Yes,68.15232677784925,Average
+166,Male,15,5.7,57,Master,Yes,No,86.78894417162894,Excellent
+167,Female,18,6.2,78,High School,Yes,No,57.360701179146545,Average
+168,Male,16,3.9,88,High School,Yes,Yes,85.04576964491775,Excellent
+169,Male,17,2.4,52,High School,Yes,Yes,65.46625486117719,Average
+170,Female,18,2.4,81,High School,Yes,Yes,73.35266659493747,Good
+171,Female,19,5.1,59,None,Yes,Yes,71.0856637942155,Good
+172,Male,15,4.0,59,Master,Yes,No,69.67291992877249,Average
+173,Male,19,0.7,68,None,Yes,Yes,69.79595748332017,Average
+174,Female,18,6.0,95,High School,Yes,Yes,91.8603783740653,Excellent
+175,Female,18,2.6,83,Master,Yes,No,82.63674887359217,Good
+176,Female,18,2.7,82,Bachelor,Yes,No,64.55926465630105,Average
+177,Male,19,4.9,72,High School,Yes,No,93.74180881183136,Excellent
+178,Male,18,3.2,77,High School,Yes,Yes,74.1202161098928,Good
+179,Male,19,5.2,81,None,No,Yes,75.36436388985841,Good
+180,Male,18,8.9,99,Bachelor,Yes,Yes,57.44021381002913,Average
+181,Male,17,4.2,56,None,Yes,Yes,62.5375201239229,Average
+182,Male,18,2.9,78,Bachelor,Yes,No,59.67244738109237,Average
+183,Female,19,5.4,57,PhD,Yes,No,71.29109297490513,Good
+184,Male,16,3.4,50,High School,Yes,No,79.58174619172314,Good
+185,Male,18,5.0,52,Master,Yes,No,75.5084844913332,Good
+186,Male,16,5.6,73,PhD,Yes,Yes,93.82066234104373,Excellent
+187,Female,17,4.9,72,None,Yes,No,56.683629921831475,Average
+188,Male,15,5.1,57,Master,No,Yes,71.72303565308323,Good
+189,Male,17,5.4,96,Bachelor,Yes,Yes,50.75591006052558,Average
+190,Female,18,8.2,86,Master,Yes,Yes,56.17193542595107,Average
+191,Male,16,4.5,52,Bachelor,Yes,Yes,88.96867566007695,Excellent
+192,Male,16,5.3,100,Bachelor,Yes,Yes,63.05252700292802,Average
+193,Male,19,6.7,82,Bachelor,Yes,No,57.94954305909594,Average
+194,Male,16,5.9,77,Master,Yes,Yes,38.05034686625579,Poor
+195,Male,19,4.3,96,Bachelor,No,Yes,57.79968028316624,Average
+196,Female,15,6.8,57,Bachelor,Yes,Yes,66.92079588707531,Average
+197,Female,18,3.3,83,Master,Yes,No,49.63895560320684,Poor
+198,Female,19,4.5,84,High School,No,Yes,66.05824916526296,Average
+199,Male,15,3.5,81,High School,Yes,No,89.05946590987335,Excellent
+200,Male,16,6.2,73,High School,Yes,Yes,59.39041989507501,Average
+201,Male,16,7.4,63,High School,Yes,No,55.849254259450966,Average
+202,Female,15,5.4,81,High School,No,Yes,53.1414779970236,Average
+203,Male,16,5.2,95,Master,No,No,52.873538612263,Average
+204,Male,15,3.2,92,High School,Yes,No,78.03366170332643,Good
+205,Female,19,3.6,65,Bachelor,Yes,Yes,70.73003105324575,Good
+206,Male,19,2.6,53,High School,Yes,Yes,84.35285318913361,Good
+207,Female,15,0.6,86,Master,No,Yes,100.0,Excellent
+208,Female,19,4.2,70,PhD,Yes,Yes,42.54413302136278,Poor
+209,Female,19,4.4,63,High School,No,Yes,75.7011806266266,Good
+210,Male,19,9.3,80,Master,No,No,53.220709983496604,Average
+211,Male,17,8.1,97,None,Yes,Yes,81.83348947050176,Good
+212,Male,18,6.1,67,Master,Yes,Yes,65.92131998389846,Average
+213,Male,16,9.2,56,High School,Yes,Yes,70.4098414129626,Good
+214,Male,17,7.8,59,Master,Yes,Yes,50.75233858105288,Average
+215,Male,19,1.0,56,None,Yes,No,63.603594623302484,Average
+216,Male,15,7.1,82,Bachelor,Yes,Yes,71.3449337666239,Good
+217,Female,19,6.4,72,Bachelor,No,No,90.34117220210062,Excellent
+218,Male,18,4.4,70,High School,No,No,58.08159208887169,Average
+219,Female,19,2.2,68,High School,Yes,No,61.73962642704531,Average
+220,Male,15,6.2,97,None,Yes,No,84.16434463273421,Good
+221,Male,18,0.8,68,High School,Yes,Yes,57.10989574451034,Average
+222,Male,19,5.0,85,Bachelor,Yes,No,87.13577715961189,Excellent
+223,Female,18,3.8,78,High School,Yes,Yes,69.86370137910616,Average
+224,Female,16,2.5,67,High School,Yes,Yes,74.54684442387764,Good
+225,Female,16,7.4,51,None,No,No,75.51283453764056,Good
+226,Female,19,4.9,50,Master,Yes,No,60.75669169890088,Average
+227,Male,18,5.3,96,High School,No,No,75.84830229208593,Good
+228,Female,15,6.8,54,High School,No,Yes,58.41445323528549,Average
+229,Male,19,5.0,69,None,Yes,Yes,62.4684549385168,Average
+230,Male,16,5.9,60,High School,No,No,78.38036449049913,Good
+231,Female,16,6.6,91,Master,Yes,Yes,74.40090933462855,Good
+232,Female,19,6.1,51,High School,Yes,No,68.87552573741428,Average
+233,Female,18,5.6,52,High School,Yes,No,51.119025261054844,Average
+234,Female,16,8.6,72,Bachelor,Yes,Yes,54.86262565975555,Average
+235,Female,18,7.5,61,Bachelor,Yes,Yes,74.15063565857477,Good
+236,Female,16,4.8,69,High School,Yes,Yes,80.98210845227675,Good
+237,Female,16,3.2,54,Bachelor,Yes,Yes,53.35531743218864,Average
+238,Female,17,6.3,86,Master,Yes,No,57.40262128821749,Average
+239,Male,16,5.4,87,High School,Yes,Yes,72.01277761266579,Good
+240,Female,15,8.4,79,Bachelor,Yes,No,71.6918179394364,Good
+241,Female,19,7.0,58,Bachelor,Yes,Yes,45.64064186858438,Poor
+242,Male,19,6.5,83,High School,Yes,No,72.42344520159983,Good
+243,Female,18,5.0,93,None,Yes,Yes,61.02448284654672,Average
+244,Male,16,3.2,84,None,Yes,Yes,94.61569944593437,Excellent
+245,Male,15,4.6,71,Master,Yes,Yes,73.73797814103484,Good
+246,Female,18,6.0,93,PhD,Yes,No,76.32210174813855,Good
+247,Male,17,1.5,73,Bachelor,Yes,No,76.71038953285917,Good
+248,Male,18,7.5,66,High School,Yes,No,51.79108929021153,Average
+249,Male,18,9.1,59,Bachelor,Yes,Yes,99.15815339662905,Excellent
+250,Male,16,1.1,79,Bachelor,No,Yes,45.6563312882324,Poor
+251,Female,17,2.2,95,High School,No,Yes,81.93554712549613,Good
+252,Male,18,5.5,72,None,No,Yes,79.27995906220974,Good
+253,Female,15,3.8,81,Master,No,Yes,62.8449643013056,Average
+254,Male,15,5.5,66,High School,Yes,No,79.99675475070083,Good
+255,Male,19,4.9,99,Master,Yes,No,65.23640201764393,Average
+256,Male,17,3.0,100,High School,Yes,No,59.868078327163325,Average
+257,Male,17,7.6,66,None,Yes,No,77.0433875402939,Good
+258,Female,19,5.9,63,High School,Yes,Yes,54.901585133681465,Average
+259,Female,18,3.9,58,High School,Yes,Yes,66.63617261863645,Average
+260,Male,17,8.0,89,Master,Yes,Yes,61.087348769050635,Average
+261,Male,15,4.0,51,High School,Yes,No,64.96030735640582,Average
+262,Female,15,2.5,94,Master,Yes,Yes,76.49092898695277,Good
+263,Male,16,5.4,74,Bachelor,Yes,Yes,61.08450441480691,Average
+264,Male,17,5.7,88,Master,No,Yes,67.11514130391453,Average
+265,Male,18,6.1,58,High School,Yes,Yes,62.45282122147628,Average
+266,Female,19,6.4,71,Master,No,No,91.65994998361819,Excellent
+267,Female,19,6.0,92,Bachelor,Yes,No,75.13918597320836,Good
+268,Female,18,6.0,95,High School,No,Yes,73.30104449450079,Good
+269,Male,16,3.9,53,High School,Yes,No,80.25127756935136,Good
+270,Male,19,3.6,75,Master,Yes,No,61.0879813483767,Average
+271,Female,17,6.5,78,PhD,Yes,Yes,82.88885837499761,Good
+272,Female,16,5.5,94,None,Yes,Yes,75.19266618749113,Good
+273,Female,17,6.6,83,Bachelor,Yes,Yes,46.586636458689014,Poor
+274,Female,15,1.6,72,Master,Yes,Yes,48.579537503488524,Poor
+275,Male,16,4.0,86,Master,Yes,No,61.41554420823901,Average
+276,Female,19,8.8,60,PhD,Yes,Yes,50.184902562022444,Average
+277,Male,16,6.1,55,Bachelor,Yes,No,66.42582308950625,Average
+278,Female,16,5.6,67,High School,No,Yes,54.79393012876204,Average
+279,Male,16,6.4,70,High School,Yes,Yes,68.53415420393623,Average
+280,Female,16,9.4,91,High School,Yes,Yes,91.17564063897184,Excellent
+281,Female,17,9.0,85,Bachelor,Yes,Yes,69.25934644665722,Average
+282,Female,15,1.8,90,Bachelor,Yes,Yes,65.45553317647106,Average
+283,Female,18,2.6,87,High School,Yes,No,75.82363971678016,Good
+284,Male,16,1.8,83,Master,No,Yes,59.553703106160945,Average
+285,Female,19,3.5,66,Bachelor,No,No,82.65121464094,Good
+286,Male,16,5.1,86,Bachelor,Yes,Yes,77.42819429686168,Good
+287,Male,19,5.5,74,High School,Yes,Yes,70.58298343072846,Good
+288,Male,17,1.9,87,Bachelor,No,Yes,72.3147374745038,Good
+289,Male,19,1.3,61,High School,Yes,Yes,100.0,Excellent
+290,Female,18,3.5,72,High School,Yes,Yes,84.13468315401802,Good
+291,Male,15,6.8,91,None,Yes,Yes,100.0,Excellent
+292,Male,19,7.2,71,High School,Yes,Yes,77.98045289938679,Good
+293,Male,19,8.4,70,High School,Yes,Yes,47.924628359939675,Poor
+294,Female,15,4.9,76,Bachelor,No,Yes,66.06739445704238,Average
+295,Female,18,6.7,80,None,Yes,Yes,44.496926881779004,Poor
+296,Female,16,7.0,55,Bachelor,Yes,No,77.92454552000378,Good
+297,Female,19,4.0,76,High School,No,No,81.18106296018102,Good
+298,Male,15,5.8,89,Master,Yes,Yes,56.71126006061081,Average
+299,Male,17,6.3,83,PhD,Yes,Yes,60.1654543052972,Average
+300,Female,15,3.2,61,High School,Yes,No,72.23126344352823,Good
