@@ -1,0 +1,41 @@
+                                                    README for Project: GlobalTemperature
+🌡 Global Temperature Analysis
+📘 Overview
+
+This project performs EDA on global temperature data to understand climate change patterns, long-term warming trends, and anomalies.
+
+🔍 Objectives
+
+Analyze century-long temperature shifts
+
+Detect warming trends
+
+Plot climate patterns
+
+Identify anomaly years
+
+📊 Key Insights
+
+Average global temperature rising steadily
+
+Increased anomalies after 1980
+
+Year-over-year variation highly visual
+
+🛠 Tech Stack
+
+Python
+
+Pandas
+
+Matplotlib, Seaborn
+
+▶ How to Run
+pip install -r requirements.txt
+jupyter notebook GlobalTemperature.ipynb
+
+📌 Future Enhancements
+
+Add forecasting (ARIMA / Prophet)
+
+Build an interactive dashboard
