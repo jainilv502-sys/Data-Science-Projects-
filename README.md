@@ -37,5 +37,5 @@ More projects coming soon 🚀
 
 📬 Contact Me
 
-📧 Email: (add your email)
+📧 Email: (jainilv502@gmail.com)
 🌐 GitHub: https://github.com/jainilv502-sys
