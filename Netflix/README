@@ -1,0 +1,43 @@
+                                                        README for Project: Netflix
+🎬 Netflix Data Analysis | EDA + Insights
+📘 Overview
+
+Analysis of the complete Netflix Movies & TV Shows dataset to discover patterns in genres, content rating, country distribution, and trends.
+
+🔍 Objectives
+
+Genre distribution
+
+Content type analysis
+
+Country-wise production
+
+Directors/actors trends
+
+Release year patterns
+
+📊 Key Findings
+
+Dramatic increase in Netflix content after 2015
+
+Movies dominate over TV shows
+
+USA & India produce the most content
+
+🛠 Tech Stack
+
+Python
+
+Pandas
+
+Seaborn, Matplotlib
+
+▶ How to Run
+pip install -r requirements.txt
+jupyter notebook netflix.ipynb
+
+📌 Future Enhancements
+
+Build recommendation system
+
+Add clustering of movies
